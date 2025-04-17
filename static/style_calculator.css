@@ -1,0 +1,35 @@
+body {text-align: center;
+      background-color: #A4EDFF;}
+
+h1 {font-family: Garamond, sans-serif;
+    color: #00586F;}
+
+h2 {font-family: Garamond, sans-serif;
+    color: #00586F;}
+
+h3 {font-family: Garamond, sans-serif;
+    color: #00586F;}
+
+form {font-family: Garamond, sans-serif;
+      color: #00586F;
+      font-size: 30px;}
+
+button:hover {background-color: #00586F;
+              color: white;
+              cursor: pointer;}
+
+button {font-family: Garamond, sans-serif;
+        font-size: 20px;
+        color: #00586F;}
+
+input {font-size: 20px;
+       color: #00586F;
+       font-family: Garamond, sans-serif;}
+
+div {font-family: Garamond, sans-serif;
+        color: #00586F;
+        font-size: 20px;}
+
+select[name="operation"] {font-family: Garamond, sans-serif;
+                            color: #00586F;
+                            font-size: 20px;}
